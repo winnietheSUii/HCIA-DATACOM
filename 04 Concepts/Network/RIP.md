@@ -1,0 +1,1 @@
+Routing Information Protocol (RIP) is a distance-vector protocol using hop count as its metric (max 15 usable). It sends periodic full updates, supports classless prefixes in RIP v2, and converges slowly compared to link-state protocols.

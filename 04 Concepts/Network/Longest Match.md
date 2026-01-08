@@ -1,0 +1,1 @@
+Longest match means the route with the most specific mask (largest prefix length) is chosen first during lookup. Specific routes override broader ones, even if the broader route has a better preference.

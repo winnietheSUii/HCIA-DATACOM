@@ -1,0 +1,1 @@
+Classless Inter-Domain Routing (CIDR) uses variable-length prefixes instead of classful boundaries, enabling VLSM, route summarization, and more efficient address usage. Notation: <network>/<prefix-length> (for example, 192.0.2.0/27).

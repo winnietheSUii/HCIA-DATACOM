@@ -1,0 +1,1 @@
+Route preference (administrative distance) ranks route sources; lower values are preferred. Typical order: direct > static > dynamic protocols. It is compared before protocol-specific metrics when choosing the active route.

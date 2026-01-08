@@ -1,0 +1,1 @@
+ Bidirectional Forwarding Detection (BFD) is a lightweight protocol that provides rapid link/path failure detection between two devices. Routing protocols can track BFD sessions to trigger fast route convergence when a session drops.

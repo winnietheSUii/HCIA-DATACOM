@@ -1,0 +1,1 @@
+Routing is the control-plane process that builds a view of reachable networks and selects best paths using route preference and metrics. Routers exchange or install routes (direct, static, or dynamic) into the routing table; forwarding then uses that table to move packets.

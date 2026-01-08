@@ -1,0 +1,1 @@
+A static route is a manually configured entry that defines a destination prefix, next hop or outbound interface, and optional preference/description. It does not change unless edited or the referenced interface/next hop fails.

@@ -1,0 +1,1 @@
+The routing table holds learned routes with destination prefix/mask, route preference, metric, next hop, and outgoing interface. It is the source for forwarding decisions and may contain direct, static, and dynamic routes; lowest preference then metric wins.

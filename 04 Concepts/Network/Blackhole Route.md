@@ -1,0 +1,1 @@
+A blackhole route is an entry that intentionally discards matching traffic (null interface). It is used to drop unwanted or looped packets and to support route summarization without leaking subprefixes.

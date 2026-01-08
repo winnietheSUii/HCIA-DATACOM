@@ -1,0 +1,1 @@
+Default route configuration installs a 0.0.0.0/0 pointing to an upstream next hop or interface so unknown traffic has an exit. VRP example: `ip route-static 0.0.0.0 0.0.0.0 <nexthop|interface> [preference]`.

@@ -1,0 +1,1 @@
+Forwarding is the data-plane action of sending packets based on the routing table: perform longest-prefix match, resolve next hop/outbound interface (recursively if needed), decrement TTL, and transmit.

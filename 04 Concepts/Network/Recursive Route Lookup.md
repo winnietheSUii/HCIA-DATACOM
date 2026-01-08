@@ -1,0 +1,1 @@
+Recursive route lookup resolves a route's next hop by looking up that next hop in the routing table until a directly connected outgoing interface is found. It allows indirection but fails if any intermediate route is missing.

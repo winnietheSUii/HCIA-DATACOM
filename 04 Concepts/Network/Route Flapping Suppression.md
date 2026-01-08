@@ -1,0 +1,1 @@
+Route flapping suppression dampens unstable routes by penalizing frequent up/down changes and suppressing advertisement until a penalty decays. It reduces control-plane churn and protects convergence stability.

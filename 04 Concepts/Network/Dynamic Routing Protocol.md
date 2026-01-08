@@ -1,0 +1,1 @@
+Dynamic routing protocols (e.g., RIP, OSPF) discover neighbors, exchange routes, compute metrics, and update the routing table automatically. They react to topology changes and can support load balancing and summarization.

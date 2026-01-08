@@ -1,0 +1,1 @@
+Route summarization aggregates contiguous prefixes into a single broader route to shrink routing tables and limit update scope. It reduces churn and supports hierarchical design but must avoid covering unintended destinations.

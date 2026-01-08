@@ -1,0 +1,1 @@
+The next hop is the IP address of the downstream router to which a packet should be sent to reach a destination. Route entries store next hop plus outbound interface; if the next hop is not directly connected, recursive lookup resolves it.

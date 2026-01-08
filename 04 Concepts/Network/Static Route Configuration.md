@@ -1,0 +1,1 @@
+Static route configuration defines manual routes with destination prefix, mask, next hop or outbound interface, and optional preference/tag. Common VRP form: `ip route-static <dest> <mask> <nexthop|interface> [preference]`.
